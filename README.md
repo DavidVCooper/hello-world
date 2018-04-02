@@ -14,3 +14,5 @@ Create a Pull Request
 to compate the changes
 
 Merge Pull Request
+
+Delete the Branch after you are done if you are not going to use it again
