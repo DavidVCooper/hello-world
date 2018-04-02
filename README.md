@@ -8,6 +8,9 @@ Edit the file(s)
 Commit Changes
 
 Open a Pull Request
+
 Create a Pull Request
-  to compate the changes
+
+to compate the changes
+
 Merge Pull Request
